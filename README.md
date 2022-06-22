@@ -1,0 +1,2 @@
+# PICCROSS_Game
+Cultivated a game where the GUI has been made in Java Abstract Window Toolkit (AWT) and Swing, in addition,                    also the application is an amalgamation of Object-Oriented Programming. Moreover, the game has been designed in     Model-View-Controller design, to reduce the complexity and maintain an organized clean code. Technologies: Java applications, Java Collections, AWT, Swing, Networking basics - client and server.
